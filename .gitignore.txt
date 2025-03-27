@@ -1,0 +1,8 @@
+bin/
+obj/
+*.db
+*.sqlite
+appsettings.*.json
+secrets.json
+.env
+.vscode/

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}|TravelRoutes.Api\\TravelRoutes.Api.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}|TravelRoutes.Api\\TravelRoutes.Api.csproj|solutionrelative:travelroutes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}|TravelRoutes.Domain\\TravelRoutes.Domain.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}|TravelRoutes.Domain\\TravelRoutes.Domain.csproj|solutionrelative:travelroutes.domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}|TravelRoutes.ApiTest\\TravelRoutes.ApiTest.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.apitest\\controllers\\testroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}|TravelRoutes.ApiTest\\TravelRoutes.ApiTest.csproj|solutionrelative:travelroutes.apitest\\controllers\\testroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13828B3-332C-4A35-9FE7-7FA9F02D0070}|TravelRoutes.Application\\TravelRoutes.Application.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13828B3-332C-4A35-9FE7-7FA9F02D0070}|TravelRoutes.Application\\TravelRoutes.Application.csproj|solutionrelative:travelroutes.application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}|TravelRoutes.Infra\\TravelRoutes.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.infra\\repository\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}|TravelRoutes.Infra\\TravelRoutes.Infrastructure.csproj|solutionrelative:travelroutes.infra\\repository\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}|TravelRoutes.Api\\TravelRoutes.Api.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.api\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}|TravelRoutes.Api\\TravelRoutes.Api.csproj|solutionrelative:travelroutes.api\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13828B3-332C-4A35-9FE7-7FA9F02D0070}|TravelRoutes.Application\\TravelRoutes.Application.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.application\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13828B3-332C-4A35-9FE7-7FA9F02D0070}|TravelRoutes.Application\\TravelRoutes.Application.csproj|solutionrelative:travelroutes.application\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}|TravelRoutes.Domain\\TravelRoutes.Domain.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.domain\\abstractions\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}|TravelRoutes.Domain\\TravelRoutes.Domain.csproj|solutionrelative:travelroutes.domain\\abstractions\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}|TravelRoutes.Api\\TravelRoutes.Api.csproj|c:\\users\\dell\\source\\repos\\travelroutes\\travelroutes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}|TravelRoutes.Api\\TravelRoutes.Api.csproj|solutionrelative:travelroutes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestRouteController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.ApiTest\\Controllers\\TestRouteController.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.ApiTest\\Controllers\\TestRouteController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.ApiTest\\Controllers\\TestRouteController.cs",
+              "RelativeToolTip": "TravelRoutes.ApiTest\\Controllers\\TestRouteController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:43:51.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Domain\\Abstractions\\IRouteRepository.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Domain\\Abstractions\\IRouteRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Domain\\Abstractions\\IRouteRepository.cs",
+              "RelativeToolTip": "TravelRoutes.Domain\\Abstractions\\IRouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:41:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Application\\Interfaces\\IRouteService.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Application\\Interfaces\\IRouteService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Application\\Interfaces\\IRouteService.cs",
+              "RelativeToolTip": "TravelRoutes.Application\\Interfaces\\IRouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:30:54.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Infra\\Repository\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Infra\\Repository\\RouteRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Infra\\Repository\\RouteRepository.cs",
+              "RelativeToolTip": "TravelRoutes.Infra\\Repository\\RouteRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:31:22.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Api\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Api\\Controllers\\RouteController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Api\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "TravelRoutes.Api\\Controllers\\RouteController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:32:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Application\\Services\\RouteService.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Application\\Services\\RouteService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Application\\Services\\RouteService.cs",
+              "RelativeToolTip": "TravelRoutes.Application\\Services\\RouteService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:30:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Api\\Program.cs",
+              "RelativeToolTip": "TravelRoutes.Api\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:42:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Domain\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "TravelRoutes.Domain\\Entities\\Route.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Domain\\Entities\\Route.cs",
+              "RelativeToolTip": "TravelRoutes.Domain\\Entities\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:28:03.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelRoutes.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TravelRoutes\\TravelRoutes.Api\\appsettings.json",
+              "RelativeToolTip": "TravelRoutes.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T00:27:28.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

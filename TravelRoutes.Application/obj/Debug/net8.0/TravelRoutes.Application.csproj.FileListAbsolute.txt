@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\bin\Debug\net8.0\TravelRoutes.Application.deps.json
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\bin\Debug\net8.0\TravelRoutes.Application.dll
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\bin\Debug\net8.0\TravelRoutes.Application.pdb
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\bin\Debug\net8.0\TravelRoutes.Domain.dll
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\bin\Debug\net8.0\TravelRoutes.Domain.pdb
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRo.6F5A474F.Up2Date
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.dll
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\refint\TravelRoutes.Application.dll
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\TravelRoutes.Application.pdb
+C:\Users\DELL\source\repos\TravelRoutes\TravelRoutes.Application\obj\Debug\net8.0\ref\TravelRoutes.Application.dll

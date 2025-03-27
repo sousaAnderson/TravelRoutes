@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{B92E82C9-036B-493E-B935-1B771BBD0639}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{EE6B36DC-0087-4757-B9A1-450BD38A3FA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{C09DC579-A1B2-4F5F-B87E-2D42FAC37EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRoutes.Api", "TravelRoutes.Api\TravelRoutes.Api.csproj", "{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRoutes.Domain", "TravelRoutes.Domain\TravelRoutes.Domain.csproj", "{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRoutes.Infrastructure", "TravelRoutes.Infra\TravelRoutes.Infrastructure.csproj", "{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{BE2220A0-D09C-4662-8526-472ACE805EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRoutes.Application", "TravelRoutes.Application\TravelRoutes.Application.csproj", "{E13828B3-332C-4A35-9FE7-7FA9F02D0070}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Teste", "4 - Teste", "{7979FF96-1B8B-448A-AE65-2DC8591478BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRoutes.ApiTest", "TravelRoutes.ApiTest\TravelRoutes.ApiTest.csproj", "{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B5FE2B-D76B-42D8-952F-F8A32684B0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13828B3-332C-4A35-9FE7-7FA9F02D0070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13828B3-332C-4A35-9FE7-7FA9F02D0070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13828B3-332C-4A35-9FE7-7FA9F02D0070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13828B3-332C-4A35-9FE7-7FA9F02D0070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4DEFA0-61B1-4E38-AFC1-649D64D66593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C7C7F3B-DF6A-43A8-A62A-33B91448DB49} = {BE2220A0-D09C-4662-8526-472ACE805EAA}
+		{82B5FE2B-D76B-42D8-952F-F8A32684B0CD} = {EE6B36DC-0087-4757-B9A1-450BD38A3FA9}
+		{CE00B3C2-EF54-4AF8-BEBF-D4177FE76F58} = {C09DC579-A1B2-4F5F-B87E-2D42FAC37EC8}
+		{E13828B3-332C-4A35-9FE7-7FA9F02D0070} = {B92E82C9-036B-493E-B935-1B771BBD0639}
+		{DC4DEFA0-61B1-4E38-AFC1-649D64D66593} = {7979FF96-1B8B-448A-AE65-2DC8591478BF}
+	EndGlobalSection
+EndGlobal
